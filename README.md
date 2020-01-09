@@ -8,7 +8,7 @@ Started program
 
 [scr1]: Scr_1.png
 
-Choose Currency
+Choosed Currency
 ![][scr2]
 
 [scr2]: Scr_2.png
