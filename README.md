@@ -3,6 +3,6 @@ Udemy course iOS 13
 
 Aplication sceens
 
-![] Scr_1.png
+![] ByteCoin-iOS13/Scr_1.png
 
-![] Scr_2.png
+![] ByteCoin-iOS13/Scr_2.png
